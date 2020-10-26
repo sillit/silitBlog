@@ -30,7 +30,6 @@
     "@commitlint/config-conventional": "^9.0.1",
     "@vuepress/plugin-back-to-top": "^1.5.2",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
     "sort-package-json": "^1.44.0",
     "stylelint": "^13.6.1",
     "stylelint-config-recess-order": "^2.0.4",
@@ -39,5 +38,6 @@
     "vuepress": "^1.5.2",
     "vuepress-plugin-fulltext-search": "^2.0.3",
     "vuepress-plugin-zooming": "^1.1.7"
-  }
+  },
+  "dependencies": {}
 }
